@@ -1,0 +1,18 @@
+#Billetes{
+    position: relative;
+    color: rgb(7, 7, 7);
+    font-size: 20px;
+    left: 300px;
+    top: 45px;
+}
+#titulo{
+    position: relative;
+    left: 300px;
+    font-size: 80px;
+}
+#fotito{
+    position: relative;
+   left: 600px;
+    bottom: 95px;
+    height: 45px;
+}
